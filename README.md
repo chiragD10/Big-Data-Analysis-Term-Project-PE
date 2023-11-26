@@ -44,11 +44,9 @@ Data 1, 2, 3, 4 represent 4 different products from 4 different categories - Men
 
 ## TEAM MEMBERS:
 
-Anubhab Mandal (20MA20080), Rohan Das (20MA20077), Rangoju Bhuvan (20MA20048), Mangalik Mitra
-(20MA20070), Samarth Somani (20MA20049), Sandeep Mishra (20MA20071), Kattunga Lakshmana Sai Kumar
-(20MA20026), Prabhav Sunil Patil (20MA20042) Jitendra Padmanabhuni (20MA20039) Shatansh Patnaik
-(20MA20067) Arup Baral (20MA20010), Atharv Bajaj (20MA20014), Vishwash Kumar (20MA20079)
-
+Chirag Debnath
+Nikhil Singhal 
+Sayantan Ghorai
 
 
 
